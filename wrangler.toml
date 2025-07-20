@@ -1,0 +1,4 @@
+name = "my-project"
+compatibility_date = "2025-03-28"
+main = "./server.js"
+assets = { html_handling = "none" }
