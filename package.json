@@ -3,7 +3,7 @@
   "dependencies": {
     "@vonojs/vite": "^1.1.3",
     "@vonojs/vono": "^0.2.5",
-    "vite": "7.0.0-beta.2"
+    "vite": "npm:rolldown-vite@latest"
   },
   "scripts": {
     "dev": "vite",
